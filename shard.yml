@@ -1,0 +1,8 @@
+name: http_proxy_rotator
+version: 1.0
+
+dependencies:
+  proxy_rotator:
+    github: confact/proxy_rotator.cr
+    branch: master
+license: MIT

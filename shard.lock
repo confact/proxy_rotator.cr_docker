@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  proxy_rotator:
+    github: confact/proxy_rotator.cr
+    commit: c9ec29a130b7fbcf106e8f3ed8439d61951c1b0f
+
